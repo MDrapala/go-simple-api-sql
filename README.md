@@ -10,8 +10,6 @@ Une API RESTful écrite en Go utilisant le framework Gin et une base de données
 - [Lancement du projet](#lancement-du-projet)
 - [Endpoints de l'API](#endpoints-de-lapi)
 - [Structures de données](#structures-de-données)
-- [Contribuer](#contribuer)
-- [License](#license)
 
 ## Pré-requis
 
